@@ -13,6 +13,6 @@ sitemap: false
 - Table of Contents
 {:toc .large-only}
 
-## 첫 글
+## github 블로그
 
-첫 글을 쓰긴 쓰고 있는데, github로 블로그를 한다는게 상당히 귀찮은 일인 것 같다. 나름 프로그래밍 한다고 설쳐본다.
+첫 글을 쓰긴 쓰고 있는데, github로 블로그를 한다는게 상당히 귀찮은 일인 것 같다. 나름 프로그램 한다고 설쳐본다.
